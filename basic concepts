@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+ int age;
+ count<<"enter age :";
+ cin>>age;
+ if(age>=18)
+ {
+  count<<"you are eligible to vote.";
+  }
+  else
+   {
+  count<<"you are not eligible to vote.";
+  }
+  
+  return 0;
+ }
